@@ -1,1 +1,1 @@
-# sf_survey_ijcai_22
+This repository contains all the data, experiments and results for the paper "Even if Explanations: Prior Work, Desiderata & Benchmarks for Semi-Factual XAI"
